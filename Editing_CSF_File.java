@@ -2,7 +2,7 @@ package File_Handling;
 
 import java.io.*;
 
-public class Editing_CSF_File {
+public class Editing_CSV_File {
 
 public static void main(String[] args) throws Exception {
 		
